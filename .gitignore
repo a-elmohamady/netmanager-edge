@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Env
+.env
+!.env.edge.example
+
+# Data
+/data/
+*.db
+
+# IDE
+.idea/
+.vscode/
+
+# Certs
+*.pem
+*.key
+*.crt
